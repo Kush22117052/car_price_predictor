@@ -1,0 +1,17 @@
+.{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+
+}
+.bg-dark{
+background_color: #7576B;
+
+}
+.margin_top50{
+margin-top: 50px;
+}
+.card_header text-center{
+background_color: #0a0f1a;
+}
+/* General Page Styling */
